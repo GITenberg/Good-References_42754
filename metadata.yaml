@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41855'
     url: http://www.gutenberg.org/2009/agents/41855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42754#Good-References
 gutenberg_issued: '2013-05-20'
 gutenberg_type: Text
 identifiers:
